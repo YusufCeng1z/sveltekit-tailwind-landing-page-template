@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="static/images/simple-logo.png" alt="Simple - SvelteKit Template" width="80" height="80" />
+  <img src="static/images/simple-logo.png" alt="Simple - SvelteKit Template" width="100%" />
   <h1>Simple - SvelteKit Landing Page Template</h1>
 
   <p>
