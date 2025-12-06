@@ -1,3 +1,4 @@
+[![GitHub Stars](https://img.shields.io/github/stars/YusufCeng1z/sveltekit-tailwind-landing-page-template?style=social)](https://github.com/YusufCeng1z/sveltekit-tailwind-landing-page-template)
 <div align="center">
   <img src="static/images/simple-logo.png" alt="Simple - SvelteKit Template" width="100%" />
   <h1>Simple - SvelteKit Landing Page Template</h1>
