@@ -19,6 +19,8 @@
   </p>
 </div>
 
+Live : https://svelte-landing-page.netlify.app/
+
 <br />
 
 This project demonstrates how to build a production-ready landing page using **SvelteKit**, **Svelte 5 Runes**, and **Tailwind CSS v4**.
